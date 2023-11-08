@@ -94,6 +94,7 @@ CREATE TABLE [dbo].[objeto](
 	[lugar] [varchar](255) NOT NULL,
 	[fecha_Fact] [date] NOT NULL,
 	[Nombre_Obj] [nchar](10) NOT NULL,
+    [img_obj] [nchar](10) NOT NULL,
  CONSTRAINT [PK__objeto__3213E83F702B8F5C] PRIMARY KEY CLUSTERED 
 (
 	[id_objeto] ASC
