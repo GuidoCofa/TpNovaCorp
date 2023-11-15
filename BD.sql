@@ -131,6 +131,8 @@ CREATE TABLE [dbo].[usuario](
 	[email_US] [varchar](255) NOT NULL,
 	[nombre_empresa] [varchar](255) NOT NULL,
 	[fecha_creacion] [date] NOT NULL,
+	[contraseña] [varchar](255) NOT NULL,
+
 PRIMARY KEY CLUSTERED 
 (
 	[id_usuario] ASC
