@@ -9,7 +9,7 @@ public class Objeto
     public string Nombre_Obj{ get; set; }  
     public string img_obj{ get; set; }  
     
-  public static Objeto( int id_objeto_, int stock_, string tipo_objeto_, int lugar_, DateTime fecha_Fact_, string Nombre_Obj_, string img_obj_ )
+  public  Objeto( int id_objeto_, int stock_, string tipo_objeto_, int lugar_, DateTime fecha_Fact_, string Nombre_Obj_, string img_obj_ )
     {
         id_objeto = id_objeto_;
         stock = stock_;

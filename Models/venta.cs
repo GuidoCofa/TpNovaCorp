@@ -8,7 +8,7 @@
     public DateTime fecha_venta{ get; set; }
     public int id_objeto{ get; set; }    
     
-  public static venta( int id_, int id_usuario_, int id_proveedor_, int cantidad_, DateTime fecha_venta_, int id_objeto_ )
+  public  venta( int id_, int id_usuario_, int id_proveedor_, int cantidad_, DateTime fecha_venta_, int id_objeto_ )
     {
         id = id_;
         id_usuario = id_usuario_;

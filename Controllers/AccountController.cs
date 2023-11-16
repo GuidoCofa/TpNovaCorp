@@ -14,17 +14,13 @@ public class AccountController : Controller
     {
         return View();
     }
-    public IActionResult Olvide() {
-
-    return View("OlvideContraseña");
-    }
     public IActionResult Login() {
 
         return View("Login");
     }
-    public IActionResult ValidarLogin(string usuario, string contraseña) {
-        @ViewBag.Usuario = BD.Login(usuario,contraseña);
-        if(@ViewBag.Usuario != null) {
+    public IActionResult ValidarLogin(string nombre_US, string contraseña) {
+        @ViewBag.usuario = BD.Login(nombre_US,contraseña);
+        if(@ViewBag.usuario != null) {
             return View("PostLogin");
         } else {
             return View("Login");
@@ -34,18 +30,16 @@ public class AccountController : Controller
          
         return View("Register");
     }
-    public IActionResult IngresarRegister(string usuario, string contraseña, int telefono, string email, string nombre) {
-        Usuarios user = new Usuarios(usuario,contraseña,nombre,email,telefono);
-        BD.Register(user);
-        @ViewBag.Usuario = user;
+    //------------------------------------------------------------------------POSIBLE ERROR----------------------------------------------------------------------------------------------*/
+    public IActionResult IngresarRegister( string email_US, string apellido_US, string nombre_empresa, DateTime fecha_creacion, string nombre_US, string contraseña) {
+      
+        usuario usario = new usuario(  email_US,  apellido_US,  nombre_empresa,  fecha_creacion,  nombre_US,  contraseña);
+        BD.Register(usuario);
+        @ViewBag.usuario = usuario;
         return View("Register");
     }
     public IActionResult OlvideContraseña() {
         return View("OlvideContraseña");
     }
-    public IActionResult Privacy()
-    {
-        return View();
-    }
-
+  
 }

@@ -8,7 +8,7 @@ public class proveedor
     public DateTime fecha_Nac{ get; set; }
     public string nombre_prov{ get; set; }    
     
-  public static proveedor( int id_provedor_, string email_prov, string apellido_prov, int id_objeto_, DateTime fecha_Nac_, string nombre_prov )
+  public  proveedor( int id_provedor_, string email_prov, string apellido_prov, int id_objeto_, DateTime fecha_Nac_, string nombre_prov )
     {
         id_provedor = id_provedor_;
         email_prov = email_prov_;

@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using NovaCorp.Models;
 
+
 namespace NovaCorp.Controllers;
 
 public class HomeController : Controller
@@ -17,8 +18,9 @@ public class HomeController : Controller
     {
         return View();
     }
-         public HomeController(ApplicationDbContext context)
+    public HomeController(ApplicationDbContext context)
     {
+        
         _context = context;
     }
 

@@ -9,7 +9,8 @@ public class usuario
     public string nombre_US{ get; set; }   
     public string contraseña{ get; set; }   
     
-  public static usuario( int id_usuario_, string email_US_, string apellido_US_, string nombre_empresa_, DateTime fecha_creacion_, string nombre_US_, string contraseña_  )
+    
+  public  usuario( int id_usuario_, string email_US_, string apellido_US_, string nombre_empresa_, DateTime fecha_creacion_, string nombre_US_, string contraseña_  )
     {
         id_usuario = id_usuario_;
         email_US = email_US_;
