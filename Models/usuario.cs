@@ -13,12 +13,28 @@ public class usuario
   public  usuario( int id_usuario_, string email_US_, string apellido_US_, string nombre_empresa_, DateTime fecha_creacion_, string nombre_US_, string contraseña_  )
     {
         id_usuario = id_usuario_;
-        email_US = email_US_;
+        email_US =email_US_;
         apellido_US = apellido_US_;
         nombre_empresa = nombre_empresa_;
         fecha_creacion = fecha_creacion_;
         nombre_US = nombre_US_;
         contraseña=contraseña_;
+    }
+
+      public  usuario(  string email_US_, string apellido_US_, string nombre_empresa_, DateTime fecha_creacion_, string nombre_US_, string contraseña_  )
+    {
+   
+        email_US =email_US_;
+        apellido_US = apellido_US_;
+        nombre_empresa = nombre_empresa_;
+        fecha_creacion = fecha_creacion_;
+        nombre_US = nombre_US_;
+        contraseña=contraseña_;
+    }
+
+    public  usuario()
+    {
+ 
     }
 }
 

@@ -18,11 +18,7 @@ public class HomeController : Controller
     {
         return View();
     }
-    public HomeController(ApplicationDbContext context)
-    {
-        
-        _context = context;
-    }
+
 
         public Objeto Detalles(int id_objeto)
     {

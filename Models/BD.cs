@@ -7,16 +7,16 @@ public static class BD
 {
     private static string _connectionString = @"Server=localhost;DataBase=PreguntadOrt;Trusted_Connection=True;";
 
-    public static proveedor descripcionPROV(int id_provedor)
+    public static proveedor descripcionPROV(int id_proveedor, string email_prov, string apellido_prov, int id_objeto, DateTime fecha_Nac, string nombre_prov)
     {
         proveedor descripcionPROV = new proveedor();
         
         using(SqlConnection db = new SqlConnection(_connectionString)) {
-            string sql = "SELECT * FROM proveedor WHERE id_proveedor = id_provedor_" ;
-            MisProveedores = db.Query<proveedor>(sql).ToList();
+            string sql = "SELECT * FROM proveedor WHERE id_proveedor = @id_proveedor";
+            descripcionPROV = db.QueryFirstOrDefault<proveedor>(sql, new { id_proveedor });
         }
         
-        return MisProveedores;
+        return descripcionPROV;
     }
 
     public static Objeto descripcionOBJ(int id_objeto)
@@ -24,46 +24,46 @@ public static class BD
         Objeto descripcionOBJ = new Objeto();
         
         using(SqlConnection db = new SqlConnection(_connectionString)){
-            string sql = "SELECT * FROM Objeto WHERE id_objeto = id_objeto_";
-            MisObjetos = db.Query<Objeto>(sql).ToList();
+            string sql = "SELECT * FROM Objeto WHERE id_objeto = @id_objeto";
+            descripcionOBJ = db.QueryFirstOrDefault<Objeto>(sql, new { id_objeto });
         }
         
-        return MisObjetos;
+        return descripcionOBJ;
     }
 
-    public static venta descripcionVENTA(int id)
+    public static venta descripcionVENTA(int id, int id_usuario, int id_proveedor, int cantidad, DateTime fecha_venta, int id_objeto)
     {
         venta descripcionVENTA = new venta();
         using(SqlConnection db = new SqlConnection(_connectionString)){
-            string sql = "SELECT * FROM venta WHERE id = id_";
-            MisVentas = db.Query<venta>(sql).ToList();
+            string sql = "SELECT * FROM venta WHERE id = @id";
+            descripcionVENTA = db.QueryFirstOrDefault<venta>(sql, new { id });
         }
-        return MisVentas;
-
+        return descripcionVENTA;
     }
 
     public static void Register(usuario usuario) 
     {
-        string sql = "INSERT INTO Usuario(nombre_US,apellido_US,email_US,nombre_empresa,fecha_creacion,contraseña) VALUES(nombre_US_,apellido_US_,email_US_,nombre_empresa_,fecha_creacion_,contraseña_)";
+        string sql = "INSERT INTO Usuario(email_US,apellido_US,nombre_empresa,fecha_creacion,nombre_US,contraseña) VALUES(@email_US, @apellido_US, @nombre_empresa, @fecha_creacion, @nombre_US, @contraseña)";
         using(SqlConnection db = new SqlConnection(_connectionString)) {
-            db.Execute(sql, new {nombre_US_ = usuario.nombre_US, apellido_US_ = usuario.apellido_US, email_US_ = usuario.email_US, nombre_empresa_ = usuario.nombre_empresa, fecha_creacion_=usuario.fecha_creacion ,contraseña_ = usuario.contraseña});   
+            db.Execute(sql, usuario);
         }
     }
+
     public static usuario Login(string nombre_US, string contraseña) {
         usuario MiUser = new usuario();
         using(SqlConnection db = new SqlConnection(_connectionString)) {
-            string sql = "SELECT * FROM Usuario WHERE nombre_US = @nombre_US_ AND contraseña = @contraseña_";
-            MiUser = db.QueryFirstOrDefault<usuario>(sql, new {nombre_US_ = nombre_US, contraseña_ = contraseña });
+            string sql = "SELECT * FROM Usuario WHERE nombre_US = @nombre_US AND contraseña = @contraseña";
+            MiUser = db.QueryFirstOrDefault<usuario>(sql, new { nombre_US, contraseña });
         }
         return MiUser;
     }
-     public static usuario Olvide(string email_US) {
+
+    public static usuario Olvide(string email_US) {
         usuario MiUser = new usuario();
         using(SqlConnection db = new SqlConnection(_connectionString)) {
-            string sql = "SELECT * FROM Usuario WHERE email_US = @email_US_ ";
-            MiUser = db.QueryFirstOrDefault<usuario>(sql, new {email_US_ = email_US });
+            string sql = "SELECT * FROM Usuario WHERE email_US = @email_US";
+            MiUser = db.QueryFirstOrDefault<usuario>(sql, new { email_US });
         }
         return MiUser;
     }
 }
-

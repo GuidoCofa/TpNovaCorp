@@ -17,7 +17,11 @@
         fecha_venta = fecha_venta_;
         id_objeto = id_objeto_;
     }
+
+
+
+ public  venta()
+    {
+    
+    }
 }
-
-
-

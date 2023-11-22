@@ -19,5 +19,9 @@ public class Objeto
         Nombre_Obj = Nombre_Obj_;
         img_obj = img_obj_;
     }
+    public Objeto()
+    {
+      
+    }
 }
 
