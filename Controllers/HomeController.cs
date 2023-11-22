@@ -24,21 +24,21 @@ public class HomeController : Controller
         _context = context;
     }
 
-        public IActionResult Detalles(int id_objeto)
+        public Objeto Detalles(int id_objeto)
     {
-        Objeto Objeto = _context.Objeto.Find(id_objeto);     
+       return BD.descripcionOBJ(id_objeto);
 
-        if (Objeto == null)
-        {
-            return View("objetoNoEncontrado");
-        }
-        else
-        {
-            return View("DetalleObjeto");
+        // if (Objeto == null)
+        // {
+        //     return View("objetoNoEncontrado");
+        // }
+        // else
+        // {
+        //     return View("DetalleObjeto");
 
-        }
+        // }
 
-        return View(Objeto);
+        // return View(Objeto);
     } 
       public IActionResult VerificarProveedor(int id_provedor)
     {
