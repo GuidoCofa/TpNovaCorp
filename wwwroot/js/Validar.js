@@ -8,7 +8,7 @@
 
     contraseña.addEventListener('input', () => {
         let valor = contraseña.value;
-        const Mayusculas = mayus.some(caracter => valor.includes(caracter))
+        const Mayusculas = mayus.some(valor.includes(mayus))
 
         if(Mayusculas){
             contraseña.style.border = "2px solid green";

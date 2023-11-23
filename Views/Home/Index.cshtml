@@ -4,14 +4,15 @@
 
 <div class="text-center">
     <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+
 </div>
- @* @foreach (objeto item in ViewBag.objeto)
-        {
+
+@foreach (Objeto item in ViewBag.Objeto)
+{
             <tr>
                 <td>@item.Nombre_Obj</td>
                 <td>@item.fecha_Fact</td>
                 <td>@item.tipo_objeto</td>
-                <td> <a class="btn btn-info" href='@Url.Action("VerDetalleAlumno","Home", new {id = item.id})'>Ver info Alumno</a></td>
+                <td> <a class="btn btn-info" href='@Url.Action("VerDetalleAlumno","Home", new {id = item.id_objeto})'>Ver info Alumno</a></td>
             </tr>
-        } *@
+}  

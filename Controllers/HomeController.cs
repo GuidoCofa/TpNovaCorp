@@ -14,13 +14,15 @@ public class HomeController : Controller
         _logger = logger;
     }
 
-    public IActionResult Index()
+    public IActionResult Index(int id_objeto=1)
     {
+
+        ViewBag.Objeto = BD.descripcionOBJ(id_objeto);
         return View();
     }
 
 
-        public Objeto Detalles(int id_objeto)
+    /*public Objeto Detalles(int id_objeto)
     {
        return BD.descripcionOBJ(id_objeto);
 
@@ -35,7 +37,7 @@ public class HomeController : Controller
         // }
 
         // return View(Objeto);
-    } 
+    } */
       public IActionResult VerificarProveedor(int id_provedor)
     {
         if (id_provedor==null)

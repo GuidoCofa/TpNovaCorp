@@ -5,7 +5,7 @@ using Dapper;
 
 public static class BD 
 {
-    private static string _connectionString = @"Server=localhost;DataBase=PreguntadOrt;Trusted_Connection=True;";
+    private static string _connectionString = @"Server=localhost;DataBase=TpFinal;Trusted_Connection=True;";
 
     public static proveedor descripcionPROV(int id_proveedor, string email_prov, string apellido_prov, int id_objeto, DateTime fecha_Nac, string nombre_prov)
     {
@@ -19,16 +19,16 @@ public static class BD
         return descripcionPROV;
     }
 
-    public static Objeto descripcionOBJ(int id_objeto)
+    public static List<Objeto> descripcionOBJ(int id_objeto)
     {
-        Objeto descripcionOBJ = new Objeto();
+        List<Objeto> descripcionOB = new List<Objeto>();
         
         using(SqlConnection db = new SqlConnection(_connectionString)){
             string sql = "SELECT * FROM Objeto WHERE id_objeto = @id_objeto";
-            descripcionOBJ = db.QueryFirstOrDefault<Objeto>(sql, new { id_objeto });
+            descripcionOB = db.Query<Objeto>(sql, new { id_objeto }).ToList();
         }
         
-        return descripcionOBJ;
+        return descripcionOB;
     }
 
     public static venta descripcionVENTA(int id, int id_usuario, int id_proveedor, int cantidad, DateTime fecha_venta, int id_objeto)

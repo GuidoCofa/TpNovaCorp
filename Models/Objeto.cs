@@ -4,12 +4,12 @@ public class Objeto
     public int id_objeto{ get; set; }
     public int stock{ get; set; }
     public string tipo_objeto{ get; set; }
-    public int lugar{ get; set; }
+    public string lugar{ get; set; }
     public DateTime fecha_Fact{ get; set; }
     public string Nombre_Obj{ get; set; }  
     public string img_obj{ get; set; }  
     
-  public  Objeto( int id_objeto_, int stock_, string tipo_objeto_, int lugar_, DateTime fecha_Fact_, string Nombre_Obj_, string img_obj_ )
+  public  Objeto( int id_objeto_, int stock_, string tipo_objeto_, string lugar_, DateTime fecha_Fact_, string Nombre_Obj_, string img_obj_ )
     {
         id_objeto = id_objeto_;
         stock = stock_;
