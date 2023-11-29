@@ -40,3 +40,24 @@
     })
 }
 
+
+﻿<script>
+function MostrarProveedor (Id)
+{
+$.ajax(
+    {
+    type: 'POST',
+    dataType: 'JSON',
+    url: '/Home/VerificarProveedor',
+    data: {id_provedor: Id },
+    success:
+        function (provedor)
+        {
+                $("#NombreProveedor").html(provedor.nombre_prov);
+                $("#Id_objeto").html("Id del objeto que comercia: " ,provedor.id_objeto);
+                $("#FechaNac").html("Fecha de Nacimiento:" + provedor.fecha_Nac.substr(0,9));
+
+        }
+    })
+}
+</script>
