@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "SWS6mBY9ZXeF9FM2+KW1m7+OvHCq3drTSdHqsCVNo2E=",
+  "Hash": "rUYmXG4+z79/hvcUiC7x5PZomfVtTVf/U0maRZaMkSU=",
   "Source": "NovaCorp",
   "BasePath": "_content/NovaCorp",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "NovaCorp\\wwwroot",
       "Source": "NovaCorp",
-      "ContentRoot": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
       "BasePath": "_content/NovaCorp",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\obj\\Debug\\net7.0\\scopedcss\\bundle\\NovaCorp.styles.css",
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\obj\\Debug\\net7.0\\scopedcss\\bundle\\NovaCorp.styles.css",
       "SourceId": "NovaCorp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/NovaCorp",
       "RelativePath": "NovaCorp.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\obj\\Debug\\net7.0\\scopedcss\\bundle\\NovaCorp.styles.css"
+      "OriginalItemSpec": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\obj\\Debug\\net7.0\\scopedcss\\bundle\\NovaCorp.styles.css"
     },
     {
-      "Identity": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\NovaCorp.bundle.scp.css",
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\NovaCorp.bundle.scp.css",
       "SourceId": "NovaCorp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/NovaCorp",
       "RelativePath": "NovaCorp.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\NovaCorp.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\NovaCorp.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\css\\site.css",
       "SourceId": "NovaCorp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
       "BasePath": "_content/NovaCorp",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\favicon.ico",
       "SourceId": "NovaCorp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
       "BasePath": "_content/NovaCorp",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -85,10 +85,163 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\img\\controldestock.jpg",
       "SourceId": "NovaCorp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
+      "BasePath": "_content/NovaCorp",
+      "RelativePath": "img/controldestock.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\controldestock.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\img\\controldestockk.jpg",
+      "SourceId": "NovaCorp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
+      "BasePath": "_content/NovaCorp",
+      "RelativePath": "img/controldestockk.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\controldestockk.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\img\\controldestockkk.jpg",
+      "SourceId": "NovaCorp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
+      "BasePath": "_content/NovaCorp",
+      "RelativePath": "img/controldestockkk.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\controldestockkk.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\img\\empresarios.png",
+      "SourceId": "NovaCorp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
+      "BasePath": "_content/NovaCorp",
+      "RelativePath": "img/empresarios.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\empresarios.png"
+    },
+    {
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\img\\fondo.mp4",
+      "SourceId": "NovaCorp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
+      "BasePath": "_content/NovaCorp",
+      "RelativePath": "img/fondo.mp4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\fondo.mp4"
+    },
+    {
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\img\\hombreymujer.png",
+      "SourceId": "NovaCorp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
+      "BasePath": "_content/NovaCorp",
+      "RelativePath": "img/hombreymujer.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\hombreymujer.png"
+    },
+    {
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\img\\logonovacorp.PNG",
+      "SourceId": "NovaCorp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
+      "BasePath": "_content/NovaCorp",
+      "RelativePath": "img/logonovacorp.PNG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\logonovacorp.PNG"
+    },
+    {
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\img\\mujer1.png.PNG",
+      "SourceId": "NovaCorp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
+      "BasePath": "_content/NovaCorp",
+      "RelativePath": "img/mujer1.png.PNG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\mujer1.png.PNG"
+    },
+    {
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\img\\mujer2.png",
+      "SourceId": "NovaCorp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
+      "BasePath": "_content/NovaCorp",
+      "RelativePath": "img/mujer2.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\mujer2.png"
+    },
+    {
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\js\\site.js",
+      "SourceId": "NovaCorp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
       "BasePath": "_content/NovaCorp",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -102,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\js\\Validar.js",
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\js\\Validar.js",
       "SourceId": "NovaCorp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
       "BasePath": "_content/NovaCorp",
       "RelativePath": "js/Validar.js",
       "AssetKind": "All",
@@ -119,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\js\\Validar.js"
     },
     {
-      "Identity": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "NovaCorp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
       "BasePath": "_content/NovaCorp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -136,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "NovaCorp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
       "BasePath": "_content/NovaCorp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -153,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "NovaCorp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
       "BasePath": "_content/NovaCorp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -170,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "NovaCorp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
       "BasePath": "_content/NovaCorp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -187,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "NovaCorp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
       "BasePath": "_content/NovaCorp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -204,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "NovaCorp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
       "BasePath": "_content/NovaCorp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -221,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "NovaCorp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
       "BasePath": "_content/NovaCorp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -238,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "NovaCorp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
       "BasePath": "_content/NovaCorp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -255,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "NovaCorp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
       "BasePath": "_content/NovaCorp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -272,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "NovaCorp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
       "BasePath": "_content/NovaCorp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -289,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "NovaCorp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
       "BasePath": "_content/NovaCorp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -306,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "NovaCorp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
       "BasePath": "_content/NovaCorp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -323,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "NovaCorp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
       "BasePath": "_content/NovaCorp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -340,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "NovaCorp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
       "BasePath": "_content/NovaCorp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -357,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "NovaCorp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
       "BasePath": "_content/NovaCorp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -374,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "NovaCorp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
       "BasePath": "_content/NovaCorp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -391,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "NovaCorp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
       "BasePath": "_content/NovaCorp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -408,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "NovaCorp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
       "BasePath": "_content/NovaCorp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -425,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "NovaCorp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
       "BasePath": "_content/NovaCorp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -442,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "NovaCorp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
       "BasePath": "_content/NovaCorp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -459,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "NovaCorp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
       "BasePath": "_content/NovaCorp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -476,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "NovaCorp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
       "BasePath": "_content/NovaCorp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -493,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "NovaCorp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
       "BasePath": "_content/NovaCorp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -510,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "NovaCorp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
       "BasePath": "_content/NovaCorp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -527,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "NovaCorp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
       "BasePath": "_content/NovaCorp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -544,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "NovaCorp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
       "BasePath": "_content/NovaCorp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -561,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "NovaCorp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
       "BasePath": "_content/NovaCorp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -578,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "NovaCorp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
       "BasePath": "_content/NovaCorp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -595,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "NovaCorp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
       "BasePath": "_content/NovaCorp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -612,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "NovaCorp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
       "BasePath": "_content/NovaCorp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -629,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "NovaCorp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
       "BasePath": "_content/NovaCorp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -646,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "NovaCorp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
       "BasePath": "_content/NovaCorp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -663,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "NovaCorp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
       "BasePath": "_content/NovaCorp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -680,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "NovaCorp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
       "BasePath": "_content/NovaCorp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -697,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "NovaCorp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
       "BasePath": "_content/NovaCorp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -714,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "NovaCorp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
       "BasePath": "_content/NovaCorp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -731,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "NovaCorp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
       "BasePath": "_content/NovaCorp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -748,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "NovaCorp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
       "BasePath": "_content/NovaCorp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -765,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "NovaCorp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
       "BasePath": "_content/NovaCorp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -782,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "NovaCorp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
       "BasePath": "_content/NovaCorp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -799,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "NovaCorp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
       "BasePath": "_content/NovaCorp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -816,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "NovaCorp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
       "BasePath": "_content/NovaCorp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -833,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "NovaCorp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
       "BasePath": "_content/NovaCorp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -850,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "NovaCorp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
       "BasePath": "_content/NovaCorp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -867,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "NovaCorp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
       "BasePath": "_content/NovaCorp",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -884,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "NovaCorp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
       "BasePath": "_content/NovaCorp",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -901,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "NovaCorp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
       "BasePath": "_content/NovaCorp",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -918,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "NovaCorp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
       "BasePath": "_content/NovaCorp",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -935,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "NovaCorp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
       "BasePath": "_content/NovaCorp",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -952,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "NovaCorp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
       "BasePath": "_content/NovaCorp",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -969,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "NovaCorp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
       "BasePath": "_content/NovaCorp",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -986,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "NovaCorp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
       "BasePath": "_content/NovaCorp",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1003,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "NovaCorp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
       "BasePath": "_content/NovaCorp",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1020,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "NovaCorp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
       "BasePath": "_content/NovaCorp",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1037,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "NovaCorp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
       "BasePath": "_content/NovaCorp",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1054,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "NovaCorp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
       "BasePath": "_content/NovaCorp",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1071,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "NovaCorp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
       "BasePath": "_content/NovaCorp",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1086,6 +1239,176 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\pages\\controldestock.html",
+      "SourceId": "NovaCorp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
+      "BasePath": "_content/NovaCorp",
+      "RelativePath": "pages/controldestock.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\pages\\controldestock.html"
+    },
+    {
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\pages\\facturacion.html",
+      "SourceId": "NovaCorp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
+      "BasePath": "_content/NovaCorp",
+      "RelativePath": "pages/facturacion.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\pages\\facturacion.html"
+    },
+    {
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\pages\\funcionalidades.html",
+      "SourceId": "NovaCorp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
+      "BasePath": "_content/NovaCorp",
+      "RelativePath": "pages/funcionalidades.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\pages\\funcionalidades.html"
+    },
+    {
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\pages\\ingresar.html",
+      "SourceId": "NovaCorp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
+      "BasePath": "_content/NovaCorp",
+      "RelativePath": "pages/ingresar.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\pages\\ingresar.html"
+    },
+    {
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\pages\\precios.html",
+      "SourceId": "NovaCorp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
+      "BasePath": "_content/NovaCorp",
+      "RelativePath": "pages/precios.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\pages\\precios.html"
+    },
+    {
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\pages\\registrarse.html",
+      "SourceId": "NovaCorp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
+      "BasePath": "_content/NovaCorp",
+      "RelativePath": "pages/registrarse.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\pages\\registrarse.html"
+    },
+    {
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\pages\\registrarse2.html",
+      "SourceId": "NovaCorp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
+      "BasePath": "_content/NovaCorp",
+      "RelativePath": "pages/registrarse2.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\pages\\registrarse2.html"
+    },
+    {
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\pages\\registrarse3.html",
+      "SourceId": "NovaCorp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
+      "BasePath": "_content/NovaCorp",
+      "RelativePath": "pages/registrarse3.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\pages\\registrarse3.html"
+    },
+    {
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\pages\\registrarse4.html",
+      "SourceId": "NovaCorp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
+      "BasePath": "_content/NovaCorp",
+      "RelativePath": "pages/registrarse4.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\pages\\registrarse4.html"
+    },
+    {
+      "Identity": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\pages\\soluciones.html",
+      "SourceId": "NovaCorp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\",
+      "BasePath": "_content/NovaCorp",
+      "RelativePath": "pages/soluciones.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\pages\\soluciones.html"
     }
   ]
 }

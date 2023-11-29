@@ -1,22 +1,333 @@
-html {
-  font-size: 14px;
-}
-
-@media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
-}
-
-.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
-  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
-}
-
-html {
-  position: relative;
-  min-height: 100%;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 body {
-  margin-bottom: 60px;
+  overflow-x: hidden;
 }
+
+.nav-item-pruebagratuita{
+  background-color: rgba(0, 255, 255, 0.836);
+  border-radius: 100px;
+  font-family: 'Inter', sans-serif;
+  font-weight: bolder;
+}
+
+.nav-item-funcionalidades{
+  font-family: 'Inter', sans-serif;
+  font-weight: bolder;
+}
+
+.nav-item-soluciones{
+  font-family: 'Inter', sans-serif;
+  font-weight: bolder;
+}
+
+.nav-item-precios{
+  font-family: 'Inter', sans-serif;
+  font-weight: bolder;
+}
+
+.nav-item-ingresar{
+  font-family: 'Inter', sans-serif;
+  font-weight: bolder;
+}
+
+.aqua{
+  color: rgba(0, 255, 255, 0.692);
+  font-family: 'Inter', sans-serif;
+  font-weight: bolder;
+  text-decoration: underline;
+  margin-left: 80px;
+  line-height: 0.5;
+}
+
+.titulo{
+  font-family: 'Inter', sans-serif;
+  font-weight: bolder;
+  margin-top: 30px;
+  margin-left: 80px;
+  line-height: 1.2;
+  
+}
+
+.texto{
+  font-family: 'Inter', sans-serif;
+  font-weight: bolder;
+  font-size: larger;
+  margin-top: 55px;
+  margin-left: 80px;
+  line-height: 0.5;
+}
+
+.textoo{
+  font-family: 'Inter', sans-serif;
+  font-weight: bolder;
+  font-size: larger;
+  margin-left: 80px;
+  line-height: 0.5;
+
+}
+
+.titulo2 {
+  font-family: 'Inter', sans-serif;
+  font-weight: bolder;
+  margin-top: -120px;
+  margin-left: 540px;
+}
+
+.textooo{
+  font-family: 'Inter', sans-serif;
+  font-weight: bolder;
+  font-size: larger;
+  line-height: 0.5;
+  margin-left: 540px;
+}
+
+.textoi{
+  font-family: 'Inter', sans-serif;
+  font-weight: bolder;
+  font-size: larger;
+  line-height: 0.5;
+  margin-left: 540px;
+  margin-top: 40px;
+}
+
+.aqua2{
+  color: aqua;
+  font-family: 'Inter', sans-serif;
+  font-weight: bolder;
+  text-decoration: underline;
+  margin-left: 750px;
+  line-height: 0.5;
+}
+
+.carrusel{
+  width: 500px;
+  height: 500px;
+  margin-top: 100px;
+  margin-left: 195px;
+}
+
+.titulo3{
+  font-family: 'Inter', sans-serif;
+  font-weight: bolder;
+  margin-top: -470px;
+  margin-left: 900px;
+  line-height: 2.9;
+
+}
+
+.text{
+  font-family: 'Inter', sans-serif;
+  font-weight: bolder;
+  font-size: larger;
+  margin-top: -2px;
+  margin-left: 900px;
+}
+
+.textt{ 
+  font-family: 'Inter', sans-serif;
+  font-weight: bolder;
+  font-size: larger;
+  margin-left: 900px;
+  line-height: 0.5;
+}
+
+.boton{
+  background-color: black;
+  color: white;
+  padding: 10px 10px;
+  border-radius: 5px;
+  margin-top: -3px;
+  margin-left: 900px;
+  font-family: 'Inter', sans-serif;
+  font-weight: bolder;
+  text-decoration: none;
+}
+
+.boton:hover{
+  text-decoration: none;
+  color: black;
+  background-color: white;
+}
+
+.empresarios{
+  width: 800px;
+  height: 500px;
+}
+
+.titulo4{
+  font-family: 'Inter', sans-serif;
+  font-weight: bolder;
+  margin-top:  350px;
+  margin-left: 230px;
+  line-height: 2.9;
+
+}
+
+.textc{
+  font-family: 'Inter', sans-serif;
+  font-weight: bolder;
+  font-size: larger;
+  margin-left: 350px;
+  margin-top: 20px;
+  line-height: 0.3;
+}
+
+.textcc{
+  font-family: 'Inter', sans-serif;
+  font-weight: bolder;
+  font-size: larger;
+  margin-left: 350px;
+  margin-top: 20px;
+  line-height: 0.5;
+}
+
+.carrusel2{
+  width: 400px;
+  height: 400px;
+  margin-top: -240px;
+  margin-left: 1000px;
+}
+
+.mover{
+  margin-left: 120px;
+}
+
+.botonn{
+  background-color: black;
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+  margin-left: 350px;
+  font-family: 'Inter', sans-serif;
+  font-weight: bolder;
+  text-decoration: none;
+}
+
+.botonn:hover{
+  text-decoration: none;
+  color: black;
+  background-color: white;
+}
+
+.fondo{
+  width: 1000px;
+  height: 1000px;
+  margin-left: 400px;
+  margin-top: -100px;
+}
+
+.fondoo{
+  background: rgb(209,209,209);
+  background: linear-gradient(90deg, rgba(209,209,209,1) 24%, rgba(0,212,255,1) 100%);
+}
+
+.login-form {
+  background-color: aqua;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  max-width: 400px;
+  width: 100%;
+  margin-top: 150px;
+  margin-left: 550px;
+  font-family: 'Inter', sans-serif;
+  font-weight: bolder;
+}
+
+.form-label {
+  display: block;
+  margin-bottom: 8px;
+}
+
+.form-input {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 16px;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.form-button {
+  background-color: black;
+  color: #fff;
+  padding: 10px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  width: 100%;
+}
+
+.form-button:hover {
+  background-color: white;
+  color: black
+}
+
+.progress-container {
+  width: 93rem;
+  border-radius: 8px;
+  overflow: hidden;
+  margin: 20px;
+}
+
+.progress-bar {
+  background-color: aqua !important;
+  color: black;
+  text-align: center;
+  line-height: 30px;
+  width: 0%;
+}
+
+
+.progress-container2 {
+  width: 93rem;
+  border-radius: 8px;
+  overflow: hidden;
+  margin: 20px;
+}
+
+.progress-bar2 {
+  background-color: aqua !important;
+  color: black;
+  text-align: center;
+  line-height: 30px;
+  width: 40%;
+}
+
+.progress-container3 {
+  width: 93rem;
+  border-radius: 8px;
+  overflow: hidden;
+  margin: 20px;
+}
+
+.progress-bar3 {
+  background-color: aqua !important;
+  color: black;
+  text-align: center;
+  line-height: 30px;
+  width: 70%;
+}
+
+.progress-container4 {
+  width: 93rem;
+  border-radius: 8px;
+  overflow: hidden;
+  margin: 20px;
+}
+
+.progress-bar4 {
+  background-color: aqua !important;
+  color: black;
+  text-align: center;
+  line-height: 30px;
+  width: 100%;
+}
+
+
+

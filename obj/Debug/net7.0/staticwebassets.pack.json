@@ -1,252 +1,328 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\NovaCorp.bundle.scp.css",
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\NovaCorp.bundle.scp.css",
       "PackagePath": "staticwebassets\\NovaCorp.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\js\\Validar.js",
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\img\\controldestock.jpg",
+      "PackagePath": "staticwebassets\\img\\controldestock.jpg"
+    },
+    {
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\img\\controldestockk.jpg",
+      "PackagePath": "staticwebassets\\img\\controldestockk.jpg"
+    },
+    {
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\img\\controldestockkk.jpg",
+      "PackagePath": "staticwebassets\\img\\controldestockkk.jpg"
+    },
+    {
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\img\\empresarios.png",
+      "PackagePath": "staticwebassets\\img\\empresarios.png"
+    },
+    {
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\img\\fondo.mp4",
+      "PackagePath": "staticwebassets\\img\\fondo.mp4"
+    },
+    {
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\img\\hombreymujer.png",
+      "PackagePath": "staticwebassets\\img\\hombreymujer.png"
+    },
+    {
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\img\\logonovacorp.PNG",
+      "PackagePath": "staticwebassets\\img\\logonovacorp.PNG"
+    },
+    {
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\img\\mujer1.png.PNG",
+      "PackagePath": "staticwebassets\\img\\mujer1.png.PNG"
+    },
+    {
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\img\\mujer2.png",
+      "PackagePath": "staticwebassets\\img\\mujer2.png"
+    },
+    {
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\js\\Validar.js",
       "PackagePath": "staticwebassets\\js\\Validar.js"
     },
     {
-      "Id": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\47434207\\Downloads\\TpNovaCorp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\pages\\controldestock.html",
+      "PackagePath": "staticwebassets\\pages\\controldestock.html"
+    },
+    {
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\pages\\facturacion.html",
+      "PackagePath": "staticwebassets\\pages\\facturacion.html"
+    },
+    {
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\pages\\funcionalidades.html",
+      "PackagePath": "staticwebassets\\pages\\funcionalidades.html"
+    },
+    {
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\pages\\ingresar.html",
+      "PackagePath": "staticwebassets\\pages\\ingresar.html"
+    },
+    {
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\pages\\precios.html",
+      "PackagePath": "staticwebassets\\pages\\precios.html"
+    },
+    {
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\pages\\registrarse.html",
+      "PackagePath": "staticwebassets\\pages\\registrarse.html"
+    },
+    {
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\pages\\registrarse2.html",
+      "PackagePath": "staticwebassets\\pages\\registrarse2.html"
+    },
+    {
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\pages\\registrarse3.html",
+      "PackagePath": "staticwebassets\\pages\\registrarse3.html"
+    },
+    {
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\pages\\registrarse4.html",
+      "PackagePath": "staticwebassets\\pages\\registrarse4.html"
+    },
+    {
+      "Id": "C:\\Users\\47755313\\Desktop\\TpNovaCorp\\wwwroot\\pages\\soluciones.html",
+      "PackagePath": "staticwebassets\\pages\\soluciones.html"
     },
     {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.NovaCorp.Microsoft.AspNetCore.StaticWebAssets.props",
