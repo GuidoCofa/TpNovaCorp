@@ -43,7 +43,7 @@ public static class BD
 
     public static void Register(usuario usuario) 
     {
-        string sql = "INSERT INTO Usuario(email_US,apellido_US,nombre_empresa,fecha_creacion,nombre_US,contraseña) VALUES(@email_US, @apellido_US, @nombre_empresa, @fecha_creacion, @nombre_US, @contraseña)";
+        string sql = "INSERT INTO Usuario(id_US,email_US,apellido_US,nombre_empresa,fecha_creacion,nombre_US,contraseña) VALUES(@id_US,@email_US, @apellido_US, @nombre_empresa, @fecha_creacion, @nombre_US, @contraseña)";
         using(SqlConnection db = new SqlConnection(_connectionString)) {
             db.Execute(sql, usuario);
         }

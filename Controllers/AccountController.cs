@@ -26,17 +26,13 @@ public class AccountController : Controller
              return View("Login");
          }
      }
-     public IActionResult Register() {
-         
-         return View("Register");
-     }
     //------------------------------------------------------------------------POSIBLE ERROR----------------------------------------------------------------------------------------------*/
      public IActionResult IngresarRegister( string email_US, string apellido_US, string nombre_empresa, DateTime fecha_creacion, string nombre_US, string contraseña) {
       
          usuario usuario = new usuario(  email_US,  apellido_US,  nombre_empresa,  fecha_creacion,  nombre_US,  contraseña);
          BD.Register(usuario);
          @ViewBag.usuario = usuario;
-         return View("Register");
+         return View("PostLogin");
      }
      public IActionResult OlvideContraseña() {
          return View("OlvideContraseña");
