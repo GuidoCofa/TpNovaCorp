@@ -7,7 +7,7 @@ public static class BD
 {
     private static string _connectionString = @"Server=localhost;DataBase=TpFinal;Trusted_Connection=True;";
 
-    public static proveedor descripcionPROV(int id_proveedor, string email_prov, string apellido_prov, int id_objeto, DateTime fecha_Nac, string nombre_prov)
+    public static proveedor descripcionPROV(int id_proveedor, string email_prov, string apellido_prov, int id_objeto, string nombre_prov)
     {
         proveedor descripcionPROV = new proveedor();
         
@@ -31,7 +31,7 @@ public static class BD
         return descripcionOB;
     }
 
-    public static venta descripcionVENTA(int id, int id_usuario, int id_proveedor, int cantidad, DateTime fecha_venta, int id_objeto)
+    public static venta descripcionVENTA(int id, int id_usuario, int id_proveedor, int cantidad , int id_objeto)
     {
         venta descripcionVENTA = new venta();
         using(SqlConnection db = new SqlConnection(_connectionString)){
@@ -43,7 +43,7 @@ public static class BD
 
     public static void Register(usuario usuario) 
     {
-        string sql = "INSERT INTO Usuario(id_US,email_US,apellido_US,nombre_empresa,fecha_creacion,nombre_US,contraseña) VALUES(@id_US,@email_US, @apellido_US, @nombre_empresa, @fecha_creacion, @nombre_US, @contraseña)";
+        string sql = "INSERT INTO Usuario(email_US,apellido_US,nombre_empresa,nombre_US,contraseña) VALUES (@email_US, @apellido_US, @nombre_empresa, @nombre_US, @contraseña)";
         using(SqlConnection db = new SqlConnection(_connectionString)) {
             db.Execute(sql, usuario);
         }

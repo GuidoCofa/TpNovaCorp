@@ -95,12 +95,3 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 </html>
 
-@foreach (Objeto item in ViewBag.Objeto)
-{
-            <tr>
-                <td>@item.Nombre_Obj</td>
-                <td>@item.fecha_Fact</td>
-                <td>@item.tipo_objeto</td>
-                <td> <a class="btn btn-info" href='@Url.Action("VerDetalleAlumno","Home", new {id = item.id_objeto})'>Ver info Alumno</a></td>
-            </tr>
-}  

@@ -21,13 +21,14 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 
 {
-    
+    function MostrarObjeto (id_objeto)
+
     $.ajax(
     {
         type:'POST',
         datatype:'JSON',
-        url:'/Home/Detalles',
-        data:{id_objeto: id_objeto_},
+        url:'/Home/Inventario',
+        data:{id_objeto:IdO},
         
         success: function(Objeto) {
             $("#ImgObjeto").html(Objeto.img_obj);
@@ -41,7 +42,6 @@ document.addEventListener("DOMContentLoaded", () => {
 }
 
 
-﻿<script>
 function MostrarProveedor (Id)
 {
 $.ajax(
@@ -60,4 +60,3 @@ $.ajax(
         }
     })
 }
-</script>

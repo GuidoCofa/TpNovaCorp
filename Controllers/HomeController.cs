@@ -14,30 +14,25 @@ public class HomeController : Controller
         _logger = logger;
     }
 
-    public IActionResult Index(int id_objeto=1)
+    public IActionResult Index()
     {
-
-        ViewBag.Objeto = BD.descripcionOBJ(id_objeto);
         return View();
     }
 
 
-    /*public Objeto Detalles(int id_objeto)
-    {
-       return BD.descripcionOBJ(id_objeto);
 
-        // if (Objeto == null)
-        // {
-        //     return View("objetoNoEncontrado");
-        // }
-        // else
-        // {
-        //     return View("DetalleObjeto");
 
-        // }
+        public IActionResult Inventario (int id_objeto)
+   {
+         ViewBag.Objeto = BD.descripcionOBJ(id_objeto);
 
-        // return View(Objeto);
-    } */
+        return View("Inventario");
+    }
+
+
+
+
+
       public IActionResult VerificarProveedor(int id_provedor)
     {
         if (id_provedor==null)
@@ -63,11 +58,7 @@ public class HomeController : Controller
     
 
 
-    [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-    public IActionResult Error()
-    {
-        return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
-    }
+    
 
 
   public IActionResult Register()
@@ -79,4 +70,32 @@ public class HomeController : Controller
     {
         return View("ingresar");
     }
+
+
+
+    public IActionResult Login() {
+
+        return View("Login");
+    }
+     public IActionResult ValidarLogin(string nombre_US, string contraseña) {
+         @ViewBag.usuario = BD.Login(nombre_US,contraseña);
+         if(@ViewBag.usuario != null) {
+             return View("PostLogin");
+         } else {
+             return View("Login");
+         }
+     }
+    //------------------------------------------------------------------------POSIBLE ERROR----------------------------------------------------------------------------------------------*/
+     public IActionResult IngresarRegister( string email_US, string apellido_US, string nombre_empresa, string nombre_US, string contraseña) {
+      
+         usuario usuario = new usuario(  email_US,  apellido_US,  nombre_empresa,  nombre_US,  contraseña);
+         BD.Register(usuario);
+         @ViewBag.usuario = usuario;
+         return View("PostLogin");
+     }
+     public IActionResult OlvideContraseña() {
+         return View("OlvideContraseña");
+     }
+
+     
 }

@@ -2,5 +2,85 @@
     ViewData["Title"] = "PostLogin";
 
 }
-<h2></h2>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=}, initial-scale=1.0">
+    <link rel="stylesheet" href="../css/styles.css"> 
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="icon" type="image/x-icon" href="../img/logonovacorp.PNG">
+    
+    <title>Inicio - NovaCorp</title>
+</head>
+<header>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <a class="navbar-brand" href="../index.html"><img class="logo" src="../img/logonovacorp.PNG" alt="Logo NovaCorp"></a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNavDropdown">
+          <ul class="navbar-nav">
+            <li class="nav-item-funcionalidades">
+                <a class="nav-link" href="../pages/funcionalidades.html">Funcionalidades</a>
+              </li>
+            <li class="nav-item-soluciones">
+              <a class="nav-link" href="../pages/soluciones.html">Soluciones</a>
+            </li>
+            <li class="nav-item-precios">
+              <a class="nav-link" href="../pages/precios.html">Precios</a>
+            </li>
+            <li class="nav-item-pruebagratuita">
+                <a class="nav-link" href="../pages/registrarse.html">Registrarse</a>
+              </li>
+            <li class="nav-item-ingresar">
+                <a class="nav-link" href="../pages/ingresar.html">Ingresar</a>
+              </li>            
+            </li> 
+          </ul> 
+        </div>
+      </nav>
+</header>
 
+<body>
+  <div class="cards">
+  <div class="movercard">
+  <div class="card text-white bg-dark mb-3" style="max-width: 18rem;">
+    <img class="imagenz" src="../img/ventas.png">
+    <div class="card-body">
+      <h5 class="card-title">Ventas</h5>
+      <p class="card-text">Facturas electrónicas en $ARG y U$S.
+        Agenda de clientes. Presupuestos. Órdenes de venta.
+        Abonos frecuentes.</p>
+        <a href='@Url.Action("Ventas", "Home")' class="boto">Ver ventas</a>
+        
+      </div>
+    </div>  
+  </div>
+  <div class="movercard2">
+  <div class="card text-white bg-dark mb-3" style="max-width: 18rem;">
+    <img class="imagenz" src="../img/empresarios.png">
+    <div class="card-body">
+      <h5 class="card-title">Inventario</h5>
+      <p class="card-text">Multidepósitos con control bidireccional.
+        Listas de precios.
+        Alertas de stock mínimo.</p>
+        <a href='@Url.Action("Inventario", "Home")' class="boto">Ver inventario</a>
+    </div>
+  </div>
+  <div class="movercard3">
+  <div class="card text-white bg-dark mb-3" style="max-width: 18rem;">
+    <img class="imagenz" src="../img/compras.jpg">
+    <div class="card-body">
+      <h5 class="card-title">Compras</h5>
+      <p class="card-text">Control de facturas de compras.
+        Agenda de proveedores.
+        Gestión de pagos.
+        Alertas de vencimientos.</p>
+        <a href='@Url.Action("Compras", "Home")' class="boto">Ver Ventas</a>
+    </div>
+  </div>
+</div> 
+  </body>
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
